@@ -3,4 +3,3 @@
 
 # StudyBuddy
 </div>
-
